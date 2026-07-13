@@ -1,1 +1,2 @@
 This is the initial version of src.txt.
+This is the second line added to the file.
